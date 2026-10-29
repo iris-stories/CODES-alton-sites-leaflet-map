@@ -1,21 +1,21 @@
-Name, Lat, Lon, Description, Filter:Plaque, Filter:, Filter:Bench, Filter:Wheelchair Accessible
+Name, Lat, Lon, Description, Filter:Plaque, Filter:Playground, Filter:Benches, Filter:Wheelchair Accessible, Filter:Historical Site, Filter: Park
 Elijah P Lovejoy Monument, 38.8898, -90.1660, Elijah P Lovejoy Monument, No, Yes, Yes
 Lincoln Douglas Square, 38.8906, -90.1857, Lincoln Douglas Square, No, Yes, No
 Lyman Trumbull House,  38.8971, -90.1758, Lyman Trumbull House, Yes, Yes, No, Yes
 Riverview Park, 38.89506, -90.19453, Riverview Park, Yes, No, Yes, Yes
-Olin Park, 38.9008, -90.1928, Olin Park, Unknown, Unknown, Unknown, No
-Rock Spring Park, 38.89978, -90.15679, Rock Spring Park, Unknown, Unknown, Unknown, Maybe
-McPike Mansion, 38.90606, -90.18364, McPike Mansion, Unknown, Unknown, Unknown, Maybe
+Olin Park, 38.9008, -90.1928, Olin Park, No, Yes, Yes, No
+Rock Spring Park, 38.89978, -90.15679, Rock Spring Park, Unknown, Unknown, Unknown, No
+McPike Mansion, 38.90606, -90.18364, McPike Mansion, Unknown, Unknown, Unknown, No
 College Avenue Presbyterian Church, 38.90340, -90.14675, College Avenue Presbyterian Church, Unknown, Unknown, Unknown, Yes
 Godfrey Gilman & Co. Warehouse, 38.89135, -90.18948, Godfrey Gilman & Co. Warehouse, Unknown, Unknown, Unknown, No
-Hayner Public Library, 38.92458, -90.17495, Hayner Public Library, Unknown, Unknown, Unknown, Maybe
+Hayner Public Library, 38.92458, -90.17495, Hayner Public Library, Unknown, Unknown, Unknown, Yes
 Lovejoy State Memorial, 38.89014, -90.16589, Lovejoy State Memorial, Unknown, Unknown, Unknown, No
-Alton Military Prison, 38.89139, -90.18944, Alton Military Prison, Unknown, Unknown, Unknown, Maybe
-Post Commons, 38.89086, -90.18431, Post Commons, Unknown, Unknown, Unknown, Maybe
-Alton City Hall, Unknown, Unknown, Alton City Hall, Unknown, Unknown, Unknown, Yes
+Alton Military Prison, 38.89139, -90.18944, Alton Military Prison, Unknown, Unknown, Unknown, No
+Post Commons, 38.89086, -90.18431, Post Commons, Unknown, Unknown, Unknown, Yes
+Alton City Hall, 38.890648, -90.183930, Alton City Hall, Unknown, Unknown, Unknown, Yes
 Old Bakery Beer Company, 38.8892, -90.1803, Old Bakery Beer Company, Unknown, Unknown, Unknown, Yes
 Miles Davis Statue, 38.89108, -90.18728, Miles Davis Statue, Unknown, Unknown, Unknown, Yes
-SIUE School of Dental Medicine, Unknown, Unknown, SIUE School of Dental Medicine, Unknown, Unknown, Unknown, Yes
-Chain of Rocks Park, Unknown, Unknown, Chain of Rocks Park, Unknown, Unknown, Unknown, Yes
-Alton Riverfront Green Space, Unknown, Unknown, Alton Riverfront Green Space, Unknown, Unknown, Unknown, Yes
+SIUE School of Dental Medicine, 38.90383, -90.14476, SIUE School of Dental Medicine, Unknown, Unknown, Unknown, Yes
+Chain of Rocks Park, 38.7586, -90.1872, Chain of Rocks Park, Unknown, Unknown, Unknown, Yes
+Alton Riverfront Green Space, 38.8843, -90.1746, Alton Riverfront Green Space, Unknown, Unknown, Unknown, Yes
 National Great Rivers Museum, 38.86941, -90.14606, National Great Rivers Museum, Unknown, Unknown, Unknown, Yes
