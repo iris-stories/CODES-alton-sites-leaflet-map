@@ -1,20 +1,20 @@
 Name, Lat, Lon, Description, Filter:Plaque, Filter:Playground, Filter:Benches, Filter:Wheelchair Accessible, Filter:Historical Site, Filter: Park, Filter: Restroom, Filter: Monument, Filter: Building  
 Lincoln Douglas Square, 38.88975, -90.18542, The site of the final Lincoln-Douglas debate in 1858, located in downtown Alton., Yes, No, Yes, Yes, Yes, No, No, Yes, No
-Lyman Trumbull House,  38.8971, -90.1758, "The home of former Senator Lyman Trumbull, who helped construct the 13th Amendment", Yes, No, No, No, Yes, No, No, No, Yes
-Riverview Park, 38.89506, -90.19453, A park overlooking the Mississippi River with walking paths, benches, and great views., Yes, No, Yes, No, No, Yes, No, No, No
-Olin Park, 38.9008, -90.1928, A local park that has a playground and a large open field., No, Yes, Yes, No, No, Yes, No, No, No
-Rock Spring Park, 38.89978, -90.15679, A large park in Alton with wooded areas and walking trails., No, Yes, Yes, No, No, Yes, No, No, No
-McPike Mansion, 38.90606, -90.18364, A historic mansion built in 1869 that's known for its architecture and ghost stories., No, No, No, No, Yes, No, No, No, Yes
-College Avenue Presbyterian Church, 38.90340, -90.14675, A historic church that has been part of Alton's community since the 1800s., Yes, No, No, Yes, Yes, No, No, No, Yes
-Godfrey Gilman & Co. Warehouse, 38.89135, -90.18948, A former warehouse connected to Elijah Lovejoy and Alton's abolitionist history., No, No, No, No, Yes, No, No, No, Yes
-Hayner Public Library, 38.92458, -90.17495, A community library in alton providing access to local history archives and digital resources. , No, No, No, Yes, Yes, No, Yes, No, Yes
-Lovejoy State Memorial, 38.89014, -90.16589, A monument honoring Elijah P. Lovejoy, an abolitionist who was killed defending his printing press in 1837., Yes, No, No, No, Yes, No, No, Yes, No
-Alton Military Prison, 38.89139, -90.18944, The site of a Civil War prison that held Confederate prisoners during the 1860s., No, No, No, No, Yes, No, No, No, No
-Post Commons, 38.89086, -90.18431, A former post office that has been turned into a café and community gathering space., No, No, Yes, No, Yes, No, Yes, No, Yes
-Alton City Hall, 38.890648, -90.183930, The building where Alton's city government operates and serves its residents., No, No, Yes, Yes, Yes, No, Yes, No, Yes
-Old Bakery Beer Company, 38.8892, -90.1803, A brewery and restaurant inside a former bakery building in downtown Alton., No, No, Yes, Yes, Yes, No, Yes, No, Yes
-Miles Davis Statue, 38.89108, -90.18728, A statue honoring Miles Davis, the famous jazz musician who was born in Alton in 1926., Yes, No, Yes, Yes, Yes, No, No, Yes, No
-SIUE School of Dental Medicine, 38.90383, -90.14476, A dental school in Alton that provides education for future dentists and dental care for the community., No, No, Yes, Yes, Yes, No, Yes, No, Yes
-Chain of Rocks Park, 38.75715, -90.16517, A park near the Mississippi River known for its outdoor recreation areas and nearby historic Chain of Rocks Bridge., No, Yes, Yes, Yes, Yes, Yes, Yes, No, No
-Alton Riverfront Green Space, 38.8843, -90.1746, A public area along the Mississippi River with walking paths and places to enjoy the waterfront., No, No, Yes, No, Yes, No, Yes, No, No
-National Great Rivers Museum, 38.86941, -90.14606, A museum that provides guided tours teaching visitors about the Mississippi River's history, wildlife, and how river navigation works., No, No, Yes, Yes, Yes, No, Yes, No, Yes
+Lyman Trumbull House,  38.8971, -90.1758,"The home of former Senator Lyman Trumbull, who helped construct the 13th Amendment", Yes, No, No, No, Yes, No, No, No, Yes
+Riverview Park, 38.89506, -90.19453,"A park overlooking the Mississippi River with walking paths, benches, and great views.", Yes, No, Yes, No, No, Yes, No, No, No
+Olin Park, 38.9008, -90.1928,"A local park that has a playground and a large, open field.", No, Yes, Yes, No, No, Yes, No, No, No
+Rock Spring Park, 38.89978, -90.15679,"A large park in Alton with wooded areas and walking trails.", No, Yes, Yes, No, No, Yes, No, No, No
+McPike Mansion, 38.90606, -90.18364,"A historic mansion built in 1869 that's known for its architecture and ghost stories.", No, No, No, No, Yes, No, No, No, Yes
+College Avenue Presbyterian Church, 38.90340, -90.14675,"A historic church that has been part of Alton's community since the 1800s.", Yes, No, No, Yes, Yes, No, No, No, Yes
+Godfrey Gilman & Co. Warehouse, 38.89135, -90.18948,"A former warehouse connected to Elijah Lovejoy and Alton's abolitionist history.", No, No, No, No, Yes, No, No, No, Yes
+Hayner Public Library, 38.92458, -90.17495,"A community library in alton providing access to local history archives and digital resources.", No, No, No, Yes, Yes, No, Yes, No, Yes
+Lovejoy State Memorial, 38.89014, -90.16589,"A monument honoring Elijah P. Lovejoy, an abolitionist who was killed defending his printing press in 1837.", Yes, No, No, No, Yes, No, No, Yes, No
+Alton Military Prison, 38.89139, -90.18944,"The site of a Civil War prison that held Confederate prisoners during the 1860s.", No, No, No, No, Yes, No, No, No, No
+Post Commons, 38.89086, -90.18431,"A former post office that has been turned into a café and community gathering space.", No, No, Yes, No, Yes, No, Yes, No, Yes
+Alton City Hall, 38.890648, -90.183930,"The building where Alton's city government operates and serves its residents.", No, No, Yes, Yes, Yes, No, Yes, No, Yes
+Old Bakery Beer Company, 38.8892, -90.1803,"A brewery and restaurant inside a former bakery building in downtown Alton.", No, No, Yes, Yes, Yes, No, Yes, No, Yes
+Miles Davis Statue, 38.89108, -90.18728,"A statue honoring Miles Davis, the famous jazz musician who was born in Alton in 1926.", Yes, No, Yes, Yes, Yes, No, No, Yes, No
+SIUE School of Dental Medicine, 38.90383, -90.14476,"A dental school in Alton that provides education for future dentists and dental care for the community.", No, No, Yes, Yes, Yes, No, Yes, No, Yes
+Chain of Rocks Park, 38.75715, -90.16517,"A park near the Mississippi River known for its outdoor recreation areas and nearby historic Chain of Rocks Bridge.", No, Yes, Yes, Yes, Yes, Yes, Yes, No, No
+Alton Riverfront Green Space, 38.8843, -90.1746,"A public area along the Mississippi River with walking paths and places to enjoy the waterfront.", No, No, Yes, No, Yes, No, Yes, No, No
+National Great Rivers Museum, 38.86941, -90.14606,"A museum that provides guided tours teaching visitors about the Mississippi River's history, wildlife, and how river navigation works.", No, No, Yes, Yes, Yes, No, Yes, No, Yes
